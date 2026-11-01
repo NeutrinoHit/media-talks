@@ -24,6 +24,40 @@
    }
   },
   {
+   "id": "earth-filter",
+   "variant": "film-en",
+   "version": 1,
+   "file": "earth-filter/film-en-v1.mp4",
+   "asset": "earth-filter--film-en--v1.mp4",
+   "release": "earth-filter",
+   "url": "https://github.com/NeutrinoHit/media-talks/releases/download/earth-filter/earth-filter--film-en--v1.mp4",
+   "sha256": "7ccd009f4d023f0c04ab29adb2971ddbc7b021823632420138dcfb9eaf2e808c",
+   "bytes": 2760178,
+   "duration_s": 58.0,
+   "width": 1920,
+   "height": 1080,
+   "audio": false
+  },
+  {
+   "id": "earth-shield",
+   "variant": "film-telescopes-en",
+   "version": 1,
+   "file": "earth-shield/film-telescopes-en-v1.mp4",
+   "asset": "earth-shield--film-telescopes-en--v1.mp4",
+   "release": "earth-shield",
+   "url": "https://github.com/NeutrinoHit/media-talks/releases/download/earth-shield/earth-shield--film-telescopes-en--v1.mp4",
+   "sha256": "377550a7859d7d01a8afe8f4c443e4fb0871650eaf04995bb36c5a89bddd9ea2",
+   "bytes": 12925958,
+   "duration_s": 97.9,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Земля как щит: мюоны останавливаются, нейтрино проходят",
+    "en": "The Earth as a shield: muons stop, neutrinos pass"
+   }
+  },
+  {
    "id": "jet-launch",
    "variant": "film-en",
    "version": 1,
@@ -272,6 +306,44 @@
   },
   {
    "id": "telescope-events",
+   "variant": "film-cascade-response-en",
+   "version": 1,
+   "file": "telescope-events/film-cascade-response-en-v1.mp4",
+   "asset": "telescope-events--film-cascade-response-en--v1.mp4",
+   "release": "telescope-events",
+   "url": "https://github.com/NeutrinoHit/media-talks/releases/download/telescope-events/telescope-events--film-cascade-response-en--v1.mp4",
+   "sha256": "d863c26583af59e6bd600a79565f7caa2f6777bd0d505fe04e6d36bb7234a95b",
+   "bytes": 23437279,
+   "duration_s": 17.5,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Свет нейтринного события в телескопе",
+    "en": "The light of a neutrino event in a telescope"
+   }
+  },
+  {
+   "id": "telescope-events",
+   "variant": "film-muon-response-en",
+   "version": 1,
+   "file": "telescope-events/film-muon-response-en-v1.mp4",
+   "asset": "telescope-events--film-muon-response-en--v1.mp4",
+   "release": "telescope-events",
+   "url": "https://github.com/NeutrinoHit/media-talks/releases/download/telescope-events/telescope-events--film-muon-response-en--v1.mp4",
+   "sha256": "6271508579a24da9529cf749a5dabadf2b1a844f2d55615468a69e9736cbbf29",
+   "bytes": 24904570,
+   "duration_s": 17.5,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Свет нейтринного события в телескопе",
+    "en": "The light of a neutrino event in a telescope"
+   }
+  },
+  {
+   "id": "telescope-events",
    "variant": "film-nue-cc-en",
    "version": 1,
    "file": "telescope-events/film-nue-cc-en-v1.mp4",
@@ -345,6 +417,21 @@
     "ru": "Свет нейтринного события в телескопе",
     "en": "The light of a neutrino event in a telescope"
    }
+  },
+  {
+   "id": "water-radioactivity",
+   "variant": "film-en",
+   "version": 1,
+   "file": "water-radioactivity/film-en-v1.mp4",
+   "asset": "water-radioactivity--film-en--v1.mp4",
+   "release": "water-radioactivity",
+   "url": "https://github.com/NeutrinoHit/media-talks/releases/download/water-radioactivity/water-radioactivity--film-en--v1.mp4",
+   "sha256": "015c484fad6a75d2d74724616e38f73ef741b16e59b67f8db2aebd5c394cd6a6",
+   "bytes": 389606,
+   "duration_s": 32.0,
+   "width": 1920,
+   "height": 1080,
+   "audio": false
   }
  ]
 }
