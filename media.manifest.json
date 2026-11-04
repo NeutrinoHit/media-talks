@@ -172,6 +172,25 @@
    }
   },
   {
+   "id": "neutrino-reconstruction",
+   "variant": "film-ru",
+   "version": 1,
+   "file": "neutrino-reconstruction/film-ru-v1.mp4",
+   "asset": "neutrino-reconstruction--film-ru--v1.mp4",
+   "release": "neutrino-reconstruction",
+   "url": "https://github.com/NeutrinoHit/media-talks/releases/download/neutrino-reconstruction/neutrino-reconstruction--film-ru--v1.mp4",
+   "sha256": "44edc6f326086340346afdb4ed394ac5d2d6ad2dc5e7255923ad9983e2f4e956",
+   "bytes": 1084129,
+   "duration_s": 48.0,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Как восстановить невидимый трек мюона",
+    "en": "Reconstructing an invisible muon track"
+   }
+  },
+  {
    "id": "neutrino-telescope",
    "variant": "film-electron-en",
    "version": 1,
